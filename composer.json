@@ -1,0 +1,19 @@
+{
+    "name": "medialib/fusion-prototypegenerator",
+    "description": "Neos CMS custom Fusion prototype generator",
+    "type": "neos-package",
+    "require": {
+        "neos/fusion": "~4.0 || ^5.0",
+        "carbon/notification": "~1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Medialib\\Fusion\\PrototypeGenerator\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Medialib.Fusion.PrototypeGenerator"
+        }
+    }
+}
