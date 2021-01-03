@@ -4,7 +4,7 @@
     "type": "neos-package",
     "require": {
         "neos/fusion": "~4.0 || ^5.0 || ^7.0",
-        "carbon/notification": "~1.2"
+        "carbon/notification": "~1.2 || ^2.1"
     },
     "autoload": {
         "psr-4": {
