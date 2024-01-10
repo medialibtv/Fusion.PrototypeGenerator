@@ -4,8 +4,8 @@
     "type": "neos-package",
     "license": "MIT",
     "require": {
-        "neos/fusion": "~4.2 || ^5.0 || ^7.0",
-        "carbon/notification": "~1.2 || ^2.1 || ^2.2"
+        "neos/fusion": "~4.2 || ^5.0 || ^7.0 || ^8.0",
+        "carbon/notification": "~1.2 || ^2.1 || ^2.2 || ^2.4"
     },
     "autoload": {
         "psr-4": {
